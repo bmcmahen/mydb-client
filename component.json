@@ -6,7 +6,7 @@
   "scripts": ["index.js", "document.js"],
   "dependencies": {
     "learnboost/engine.io-client": "0.7.10",
-    "cloudup/mongo-query": "*",
+    "bmcmahen/mongo-query": "*",
     "cloudup/dot": "*",
     "component/emitter": "*",
     "component/type": "*",
